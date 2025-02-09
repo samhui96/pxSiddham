@@ -1,4 +1,5 @@
 # pxSiddham
+[中文版本請至README_zh-Hant.md](https://github.com/samhui96/pxSiddham/blob/97a8bc902b0c865e0bfaf59b1a6b3d9a3eb57e46/README_zh-Hant.md))
 
 pxSiddham is a pixelated font for [Siddham script](https://en.wikipedia.org/wiki/Siddha%E1%B9%83_script), which is extinct in India but still in use in East Asia, particularly in Japanese Buddhism.
 
